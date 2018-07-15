@@ -25,12 +25,12 @@
 
 ## Week 5
 ### Videos
-[OOP Concepts]()    
-[Classes]()    
-[Encapsulation]()    
-[Inheritance, Abstraction, and Polymorphism]()    
-[Exceptions]()    
-[OOP Menu Drive App]()    
+[OOP Concepts](https://youtu.be/RfqTABtAla0)    
+[Classes](https://youtu.be/Iw9UN8oZ2h8)    
+[Encapsulation](https://youtu.be/tKpiqe6KRrk)    
+[Inheritance, Abstraction, and Polymorphism](https://youtu.be/Hmm8sZoSBUg)    
+[Exceptions](https://youtu.be/sHn_gSHicms)    
+[OOP Menu Drive App](https://youtu.be/y5YCcmbIGAM)    
 ### Assignments
 [Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_5/src/assignments/Coding.java)    
 [Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_5/src/assignments/Research.java)    
