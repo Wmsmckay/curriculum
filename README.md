@@ -22,3 +22,15 @@
 ### Assignments
 [Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_4/src/assignments/Coding.java)    
 [Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_4/src/assignments/Research.java)    
+
+## Week 5
+### Videos
+[OOP Concepts]()    
+[Classes]()    
+[Encapsulation]()    
+[Inheritance, Abstraction, and Polymorphism]()    
+[Exceptions]()    
+[OOP Menu Drive App]()    
+### Assignments
+[Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_5/src/assignments/Coding.java)    
+[Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_5/src/assignments/Research.java)    
