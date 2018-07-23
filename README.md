@@ -34,3 +34,14 @@
 ### Assignments
 [Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_5/src/assignments/Coding.java)    
 [Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_5/src/assignments/Research.java)    
+
+## Week 6
+### Videos
+[Interfaces](https://youtu.be/3WSIjS1Qgug)    
+[Debugging](https://youtu.be/sxgqdPxmAWg)    
+[Unit Tests](https://youtu.be/vqIrO6diTU4)    
+[Small Homework Hint](https://youtu.be/RfIQ04Wl6xg)     
+### Assignments
+[Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_6/src/assignments/Coding.java)   
+[Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_6/src/assignments/Research.java)   
+[Quiz](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_6/src/assignments/Quiz.java)
