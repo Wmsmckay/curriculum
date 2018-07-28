@@ -45,3 +45,14 @@
 [Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_6/src/assignments/Coding.java)   
 [Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_6/src/assignments/Research.java)   
 [Quiz](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_6/src/assignments/Quiz.java)
+
+## Week 7
+### Videos
+[Relational Databases - Installing MySQL](https://youtu.be/g8ZM6r4bLuQ)    
+[SQL SELECT](https://youtu.be/zTzgeQmC_BE)    
+[SQL INSERT INTO](https://youtu.be/qNEV-Y8ggGI)    
+[SQL UPDATE](https://youtu.be/HmjgVtY4iyM)   
+[SQL DELETE](https://youtu.be/Qa0sRnt20OQ)     
+### Assignments
+[Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_7/Coding.txt)   
+[Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_7/Research.txt)   
