@@ -49,6 +49,7 @@
 ## Week 7
 ### Videos
 [Relational Databases - Installing MySQL](https://youtu.be/g8ZM6r4bLuQ)    
+[Add MySQL to Path Environment Variable](https://youtu.be/OfDhI30xGqs)    
 [SQL SELECT](https://youtu.be/zTzgeQmC_BE)    
 [SQL INSERT INTO](https://youtu.be/qNEV-Y8ggGI)    
 [SQL UPDATE](https://youtu.be/HmjgVtY4iyM)   
