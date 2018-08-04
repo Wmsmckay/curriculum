@@ -57,3 +57,12 @@
 ### Assignments
 [Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_7/Coding.txt)   
 [Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_7/Research.txt)   
+
+## Week 7
+### Videos
+[Table Relationships](https://youtu.be/aCbGE84cUq8)    
+[Joins](https://youtu.be/5_XHBo4sdS8)    
+[Functions](https://youtu.be/qC59ZxHmUno)    
+### Assignments
+[Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_8/Coding.txt)   
+[Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_8/Research.txt)   
