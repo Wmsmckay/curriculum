@@ -66,3 +66,12 @@
 ### Assignments
 [Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_8/Coding.txt)   
 [Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_8/Research.txt)   
+
+## Week 9
+### Videos
+[Entity Relationship Diagrams](https://youtu.be/t7BFSBOpAQQ)    
+[Creating Databases](https://youtu.be/ec--JuXWVu4)    
+### Assignments
+[Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_9/Coding.txt)   
+[Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_9/Research.txt)   
+Coming Tomorrow: [Quiz]()    
