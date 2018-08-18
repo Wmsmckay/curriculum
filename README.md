@@ -75,3 +75,12 @@
 [Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_9/Coding.txt)   
 [Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_9/Research.txt)   
 [Quiz](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_9/src/week_9/Quiz.java)    
+
+## Week 10
+### Videos
+[Views](https://youtu.be/q9yXNyP1Og8)    
+[Indexes](https://youtu.be/D2eW7zDkNvE)    
+[Stored Procedures](https://youtu.be/9QoZUcsseEA)    
+### Assignments
+[Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_10/Coding.txt)   
+[Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_10/Research.txt)   
