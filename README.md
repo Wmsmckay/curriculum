@@ -84,3 +84,13 @@
 ### Assignments
 [Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_10/Coding.txt)   
 [Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_10/Research.txt)   
+
+## Week 11
+### Videos
+[Connect To Database with Java](https://youtu.be/6MKLyRbl0LA)    
+[SQL Statement with Java](https://youtu.be/UZ-XzQ3RXas)    
+[SQL Injection and PreparedStatments](https://youtu.be/1cVC_puh4co)    
+[Menu Driven App Part 1](https://youtu.be/_qZ_wa-wPHU)    
+[Menu Driven App Part 2](https://youtu.be/rMk_WQyXpI8)    
+### Assignments
+[Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_11/src/assignments/Coding.txt)   
