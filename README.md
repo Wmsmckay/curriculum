@@ -94,3 +94,7 @@
 [Menu Driven App Part 2](https://youtu.be/rMk_WQyXpI8)    
 ### Assignments
 [Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_11/src/assignments/Coding.txt)   
+
+## Week 12
+### Assignments
+[Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_12/assignments/Coding.txt)   
