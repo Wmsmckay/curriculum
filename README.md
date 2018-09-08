@@ -98,3 +98,13 @@
 ## Week 12
 ### Assignments
 [Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_12/assignments/Coding.txt)   
+
+## Week 13
+### Videos
+[REST](https://youtu.be/tLcnxEV2uX8)    
+[HTTP Verb Methods](https://youtu.be/--3RKX9JyDE)    
+[Postman](https://youtu.be/XgC3V1sH2tE)    
+[API Documentation](https://youtu.be/XtELgqBz5kw)    
+### Assignments
+[Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_13/Coding.txt)   
+[Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_13/Research.txt)   
