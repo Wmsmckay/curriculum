@@ -108,3 +108,12 @@
 ### Assignments
 [Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_13/Coding.txt)   
 [Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_13/Research.txt)   
+
+## Week 14
+### Videos
+[Apache Maven](https://youtu.be/oFelgPoPxnk)    
+[SpringBoot Dependencies](https://youtu.be/-0g11DuvndI)    
+[Controller Layer and Endpoints](https://youtu.be/WBhlAq3U7jY)    
+### Assignments
+[Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_14/Coding.txt)   
+[Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_14/Research.txt)   
