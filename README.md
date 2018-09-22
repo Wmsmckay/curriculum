@@ -1,3 +1,16 @@
+## Week 1
+### Videos
+[Command Line Interface](https://www.youtube.com/watch?v=ZCBcTFsuIxY&t=0s&list=PLW14srP-x6n6KXelnwAYp9RP27536RM_N&index=23)   
+[Source Control with Git](https://www.youtube.com/watch?v=sRw0_G-Z52Y&t=0s&list=PLW14srP-x6n6KXelnwAYp9RP27536RM_N&index=24)   
+[What is Programming?](https://www.youtube.com/watch?v=VjpRaVb01to&t=0s&list=PLW14srP-x6n6KXelnwAYp9RP27536RM_N&index=28)   
+[Java](https://www.youtube.com/watch?v=iR4E3bE7G_Q&t=0s&list=PLW14srP-x6n6KXelnwAYp9RP27536RM_N&index=25)   
+[Variables and Data Types](https://www.youtube.com/watch?v=xyZmG3g1VC8&t=0s&list=PLW14srP-x6n6KXelnwAYp9RP27536RM_N&index=27)   
+[Operations](https://www.youtube.com/watch?v=TMhWyaaBK0Q&t=0s&list=PLW14srP-x6n6KXelnwAYp9RP27536RM_N&index=26)   
+
+### Assignments
+[Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_1/Coding.txt)   
+[Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_1/Research.txt)   
+
 ## Week 3
 ### Videos
 [Arrays](https://www.youtube.com/watch?v=FMeJaeHB3BA&t=0s&index=2&list=PLW14srP-x6n6KXelnwAYp9RP27536RM_N)   
@@ -117,3 +130,12 @@
 ### Assignments
 [Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_14/Coding.txt)   
 [Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_14/Research.txt)   
+
+## Week 15
+### Videos
+[JPA](https://www.youtube.com/watch?v=1j3G5FISlas&list=PLW14srP-x6n4ZhRSFyWDKG0axQZNrKBeW&t=0s&index=9)    
+Note: After your database is automatically created, change the line in your application.properties file that says ```spring.jpa.hibernate.ddl-auto=create``` to say ```spring.jpa.hibernate.ddl-auto=update```
+### Assignments
+[Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_15/Coding.txt)   
+[Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_15/Research.txt)   
+[Quiz](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_15/src/week_15/Quiz.java)    
