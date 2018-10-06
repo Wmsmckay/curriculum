@@ -11,6 +11,17 @@
 [Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_1/Coding.txt)   
 [Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_1/Research.txt)   
 
+## Week 2
+### Videos
+[Boolean Operators](https://youtu.be/gjw73tNDO_4)   
+[Conditionals](https://youtu.be/IrrNkx_OoTE)   
+[Loops](https://youtu.be/Y6bLzVLSmCI)   
+[User Input](https://youtu.be/Fi24hpG0z1A)   
+
+### Assignments
+[Coding](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_2/Coding.txt)   
+[Research](https://github.com/NickSuwyn/promineo-class-1/blob/master/week_2/Research.txt)   
+
 ## Week 3
 ### Videos
 [Arrays](https://www.youtube.com/watch?v=FMeJaeHB3BA&t=0s&index=2&list=PLW14srP-x6n6KXelnwAYp9RP27536RM_N)   
